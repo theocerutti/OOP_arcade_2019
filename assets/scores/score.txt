@@ -1,0 +1,17 @@
+nibbler:
+NIK, 24
+QGY, 21
+XXX, 16
+ABC, 14
+ABB, 14
+ZDI, 12
+XXX, 10
+XXX, 10
+XXX, 9
+MAT, 9
+pacman:
+ABC, 29
+HUG, 22
+XXX, 20
+ABC, 8
+AAA, 8

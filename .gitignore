@@ -1,0 +1,8 @@
+*.o
+arcade
+*.so
+.idea/
+.vscode/
+a.out
+*.properties
+*.jar
